@@ -7,7 +7,7 @@ For this evaluation you will create a  **JAVA API** with spring boot.
 ## Scenario 
 We are a shoe shop and we recently open a new store, it brings with a new challege in terms of customer managment, we need to centralize the information in order to syncronize the operational data between all stores.
 
-We use OpenPay as Payment Service Provider, fortunatly OpenPay has an API to create, update and retrieve Customers. 
+We use OpenPay as Payment Service Provider, fortunately OpenPay has an API to create, update and retrieve Customers. 
 
 The engineering team is creating a new Web App where the employees of all stores can manage Customer's info, they are in charge of 
 * Listing all Customers
