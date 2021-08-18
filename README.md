@@ -22,7 +22,7 @@ The engineering team is creating a new Web App where the employees of all stores
 ### OpenPay Sandbox
 [https://sandbox-dashboard.openpay.mx/login](https://sandbox-dashboard.openpay.mx/login)
 
-### OpenPay API NodeJs
+### OpenPay API 
 [Open Pay API](https://www.openpay.mx/docs/api.html)
 
 ## FINAL CONSIDERATIONS
