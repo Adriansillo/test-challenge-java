@@ -30,7 +30,7 @@ Please write this application using  Java and springboot. You are free to implem
 
 **Deadline**: We expect you to get back to us with the solution in 4 days. It won't be better if you delivery before, so if you finish early, improve your code. Finally, don't rush, if you need more time please ask us whenever you need.
 
-Create a private project in GitHub and share with us your code [Mario](mario-morales-clip) [Adrian](https://github.com/Adriansillo).
+Create a private project in GitHub and share with us your code [Mario](mario-morales-clip), [Adrian](https://github.com/Adriansillo).
 
 The repo should have your name, for example **"{{YOUR-NAME}}-clip-test-challenge"**, it will help us to identify your test.
 
